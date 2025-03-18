@@ -1,6 +1,3 @@
-Here’s a properly formatted README section that you can paste into GitHub:
-
----
 
 # 📈 Stock Price Prediction Using Machine Learning  
 
