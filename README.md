@@ -70,34 +70,3 @@ For this study, we used the **Maruti Suzuki stock dataset** sourced from the **N
 ## 🏆 Conclusion  
 The LSTM model outperformed other models in forecasting stock prices, making it the most suitable choice for this study. The insights gained from this analysis can be used to enhance investment strategies and decision-making processes.  
 
----
-
-## 💻 How to Run  
-1. Clone the repository:  
-```bash
-git clone https://github.com/your-username/stock-price-prediction.git
-```
-2. Install dependencies:  
-```bash
-pip install -r requirements.txt
-```
-3. Run the model:  
-```bash
-python main.py
-```
-
----
-
-## 🌟 Future Scope  
-- Improve model accuracy by incorporating additional market indicators.  
-- Implement real-time prediction capabilities.  
-- Test with other stock datasets for broader applicability.  
-
----
-
-## 📝 License  
-This project is licensed under the **MIT License**.  
-
----
-
-This format is clean, professional, and well-organized for GitHub! 👍
